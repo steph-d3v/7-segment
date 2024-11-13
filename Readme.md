@@ -24,5 +24,7 @@ Je souhaitais proposer une implémentation originale avec un code astucieux et c
 python3 7-segment.py
 ```
 
+<img src="assets/7-segment.png" width="600px" height="256px" alt="Démo">
+
 
 [docstring]: https://www.docstring.fr
